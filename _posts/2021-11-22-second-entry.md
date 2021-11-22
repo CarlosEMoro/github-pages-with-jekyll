@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Next topic"
 date: 2021-11-22
 ---
 
